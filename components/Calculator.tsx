@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Calculator as CalcIcon, Check, Truck, Car, Construction, Building2 } from 'lucide-react';
+import { Calculator as CalcIcon, Truck, Car, Construction, Building2 } from 'lucide-react';
 import { Button } from './ui/Button';
 import { VehicleType, CalculatorState } from '../types';
 
