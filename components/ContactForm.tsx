@@ -36,7 +36,7 @@ export const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-bold mb-1">Телефон</h3>
-                  <p className="text-slate-400">+7 (XXX) XXX-XX-XX</p>
+                  <p className="text-slate-400">+7 (964) 368-88-47</p>
                   <p className="text-sm text-slate-500 mt-1">Пн-Пт с 9:00 до 18:00</p>
                 </div>
               </div>
@@ -47,7 +47,7 @@ export const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-bold mb-1">Офис</h3>
-                  <p className="text-slate-400">г. Нальчик, ул. [Улица], д. [Дом]</p>
+                  <p className="text-slate-400">г. Нальчик, ул. [Кирова], д. [304]</p>
                   <p className="text-sm text-slate-500 mt-1">Работаем по всей Кабардино-Балкарии</p>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-bold mb-1">Email</h3>
-                  <p className="text-slate-400">info@telematic-kbr.ru</p>
+                  <p className="text-slate-400">telematic.kbr@gmail.com</p>
                 </div>
               </div>
             </div>
